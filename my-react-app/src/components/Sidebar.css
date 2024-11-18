@@ -1,0 +1,16 @@
+.sidebar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 3% 2%;
+    text-align: left;
+    border-right: 1px solid darkgray;
+    height: 100%;
+    width: 10.5%;
+}
+
+.logo {
+    position: relative;
+    height: 50px;
+    width: 150px;
+}
